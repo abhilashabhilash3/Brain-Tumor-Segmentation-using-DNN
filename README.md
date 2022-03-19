@@ -31,12 +31,4 @@ The models were trained using W-Net model architecture for tumor segmentation.
 
 ## 5. Conclusion
 
-1. Several Deep Learning and Image processing techniques were studied in the due course of the project. 
-2. We completed research work with current usage of techniques in image preprocessing, image segmentation, common feature extraction and classification recently used were
-   analyzed and studied. We choose in total 3 systems-
-      
-      i. SOBEL + MD-UNET (Dice score-0.9918)
-      ii. 2D -VNET (Dice score-0.9947)
-      iii. **WNET (Dice score-0.9964)**
-3. The output received is of tumor region highlighted into three regions which are edema, enhancing tumor and non enhancing tumor. The dice score of
-    99.64% was achieved
+The output received is of tumor region highlighted into three regions which are edema, enhancing tumor and non enhancing tumor. The dice score of     99.64% was achieved
